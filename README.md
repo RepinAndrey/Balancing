@@ -7,7 +7,7 @@
 Настройте балансировку Round-robin на 4 уровне.
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-![alt text](https://github.com/RepinAndrey/Balancing/img/1.png)
+![img](https://github.com/RepinAndrey/Balancing/blob/main/img/1.png)
 
 
 
